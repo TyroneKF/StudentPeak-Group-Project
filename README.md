@@ -4,8 +4,8 @@
 [![Watch the video](https://github.com/user-attachments/assets/33b4c042-dc5a-4e7b-9762-f76f406d0297)](https://youtu.be/uce1-xKXER0)
 ### [Watch This Video on YouTube](https://youtu.be/uce1-xKXER0)
 
-[//]: <> (#################################################################################.)
 ##
+
 [//]: <> (#################################################################################.)
 
 <p> 
@@ -17,6 +17,8 @@ Whilst providing a personalized experience catered by a student’s preferences 
 [//]: <> (#################################################################################.)
 
 https://github.com/user-attachments/assets/8682401d-b86c-4ba5-ab73-73273cd0841b
+
+[Full Project Wireframe](https://xd.adobe.com/view/75ac363e-89dc-4662-a601-a609904c584f-20ff/)
 
 [//]: <> (#################################################################################.)
 ##

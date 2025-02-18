@@ -1,15 +1,34 @@
-[//]: <> (This is also a comment.)
+[//]: <> (#################################################################################.)
 <h1 align="center">  Student Peak Group Project </h1>
 
-[//]: <> (############################################################################################)
+[//]: <> (#################################################################################.)
 [![Watch the video](https://github.com/user-attachments/assets/33b4c042-dc5a-4e7b-9762-f76f406d0297)](https://youtu.be/uce1-xKXER0)
 ### [Watch This Video on YouTube](https://youtu.be/uce1-xKXER0)
 
-[//]: <> (############################################################################################)
+[//]: <> (#################################################################################.)
+
+<p> 
+StudentPeak is an innovative mobile app designed to foster connections amongst university students, facilitating social engagement and community integration. This dynamic platform enables students to discover peers with shared interests, stay informed and discover university-affiliated events & events in the area, and support newcomers in adapting to university life. 
+  
+Whilst providing a personalized experience catered by a student’s preferences & interests in; accommodation, academic discipline, and extracurricular interests and societies. This customization powers a curated feed showcasing friend’s activities, trending topics & discussions on campus, an explore page promoting suggested content and an events page crafted from a user’s interests & society-driven events using; Google Events Results API via SerpApi to provide real-time updates.
+</p>
+
+[//]: <> (#################################################################################.)
+
+https://github.com/user-attachments/assets/8682401d-b86c-4ba5-ab73-73273cd0841b
+
+[//]: <> (#################################################################################.)
+##
+<p>
+Design using React / React Native, Javascript, Redux and Expo for cross-platform consistency and multi-platform compatibility on IOS & Android devices for later deployment, whilst utilizing  efficient databases like: Firebase / Firestore databases with incorporation of Node.js platform.  
+</p>
+
+[//]: <> (#################################################################################.)
 
 ##
 
-[//]: <> (############################################################################################)
+[//]: <> (#################################################################################.)
+
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][tech_tools_anchor]
@@ -39,14 +58,17 @@
 [<img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=jetbrains&logoColor=white" alt="Webstorm IDE" title="Webstorm IDE" height="25" />][tech_tools_anchor]
 &nbsp;
 
-[//]: <> (############################################################################################)
+[//]: <> (#################################################################################.)
+
+
+[//]: <> (This is also a comment.)
 ## 🔍  Where to find me
 
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/10927329/valentin-briand)
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valentinbriand42)
 
-[//]: <> (############################################################################################)
+[//]: <> (This is also a comment.)
 [tech_tools_anchor]: #bonjour--
 
 

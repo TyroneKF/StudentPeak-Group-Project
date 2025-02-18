@@ -1,7 +1,7 @@
 [//]: <> (This is also a comment.)
 <h1 align="center">  Student Peak Group Project </h1>
 
-[//]: <> (This is also a comment.)
+[//]: <> (############################################################################################)
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][tech_tools_anchor]
@@ -31,21 +31,21 @@
 [<img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=jetbrains&logoColor=white" alt="Webstorm IDE" title="Webstorm IDE" height="25" />][tech_tools_anchor]
 &nbsp;
 
+[//]: <> (############################################################################################)
 
-[//]: <> (This is also a comment.)
 ![StudentPeak IMG](https://github.com/user-attachments/assets/4e6b0800-7cf7-480c-97d5-d71dce4570a5)
 
-[//]: <> (This is also a comment.)
+[//]: <> (############################################################################################)
 https://github.com/user-attachments/assets/8682401d-b86c-4ba5-ab73-73273cd0841b
 
-[//]: <> (This is also a comment.)
+[//]: <> (############################################################################################)
 ## 🔍  Where to find me
 
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/10927329/valentin-briand)
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valentinbriand42)
 
-[//]: <> (This is also a comment.)
+[//]: <> (############################################################################################)
 [tech_tools_anchor]: #bonjour--
 
 

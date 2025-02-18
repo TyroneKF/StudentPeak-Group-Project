@@ -2,6 +2,14 @@
 <h1 align="center">  Student Peak Group Project </h1>
 
 [//]: <> (############################################################################################)
+[![Watch the video](https://github.com/user-attachments/assets/33b4c042-dc5a-4e7b-9762-f76f406d0297)](https://youtu.be/uce1-xKXER0)
+### [Watch This Video on YouTube](https://youtu.be/uce1-xKXER0)
+
+[//]: <> (############################################################################################)
+
+##
+
+[//]: <> (############################################################################################)
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][tech_tools_anchor]
@@ -30,13 +38,6 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=jetbrains&logoColor=white" alt="Webstorm IDE" title="Webstorm IDE" height="25" />][tech_tools_anchor]
 &nbsp;
-
-[//]: <> (############################################################################################)
-
-![StudentPeak IMG](https://github.com/user-attachments/assets/4e6b0800-7cf7-480c-97d5-d71dce4570a5)
-
-[//]: <> (############################################################################################)
-https://github.com/user-attachments/assets/8682401d-b86c-4ba5-ab73-73273cd0841b
 
 [//]: <> (############################################################################################)
 ## 🔍  Where to find me

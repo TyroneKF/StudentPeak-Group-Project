@@ -7,7 +7,6 @@
 ##
 
 [//]: <> (#################################################################################.)
-
 <p> 
 StudentPeak is an innovative mobile app designed to foster connections amongst university students, facilitating social engagement and community integration. This dynamic platform enables students to discover peers with shared interests, stay informed and discover university-affiliated events & events in the area, and support newcomers in adapting to university life. 
   
@@ -19,6 +18,18 @@ Whilst providing a personalized experience catered by a student’s preferences 
 https://github.com/user-attachments/assets/8682401d-b86c-4ba5-ab73-73273cd0841b
 
 [Full Project Wireframe](https://xd.adobe.com/view/75ac363e-89dc-4662-a601-a609904c584f-20ff/)
+
+
+[//]: <> (#################################################################################.)
+
+##
+
+## Project Files
+
+| [🔗StudentPeak Poster](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/StudentPeak%20%20Poster.pdf) |[🔗StudnetPeak User Manual](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/User%20Manual.pdf) |[🔗StudentPeak Abstract](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/StudentPeak%20Abstract.pdf)|[🔗StudentPeak Technical Report](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/StudentPeak%20Technical%20Report.pdf)|
+|------------------------------|------------------------------|------------------------------|------------------------------|
+|[🔗StudentPeak Market Research](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/StudentPeak_Market_Research_Report.pdf)|[🔗StudentPeak User Stories](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/User%20Stories2.pdf) |[🔗StudentPeak User Stories 2](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/User%20Stories.pdf)|[🔗StudentPeak Use Cases](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/Use%20Case.docx.pdff)|[🔗StudentPeak Database Design](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/Database%20Design.pdf)|
+[🔗StudentPeak Code.Zip](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/(Code)%20StudentPeak%20G2%20Code.zip)|[🔗Corpus.Zip](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/Corpus.zip)|
 
 [//]: <> (#################################################################################.)
 ##

@@ -69,7 +69,7 @@ Designed using React / React Native, Javascript, Redux and Expo for cross-platfo
 | [🔗StudentPeak Poster](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/StudentPeak%20%20Poster.pdf) |[🔗StudnetPeak User Manual](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/User%20Manual.pdf) |[🔗StudentPeak Abstract](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/StudentPeak%20Abstract.pdf)|[🔗StudentPeak Technical Report](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/StudentPeak%20Technical%20Report.pdf)|
 |------------------------------|------------------------------|------------------------------|------------------------------|
 |[🔗StudentPeak Market Research](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/StudentPeak_Market_Research_Report.pdf)|[🔗StudentPeak User Stories](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/User%20Stories2.pdf) |[🔗StudentPeak User Stories 2](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/User%20Stories.pdf)|[🔗StudentPeak Use Cases](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/Use%20Case.docx.pdf)|[🔗StudentPeak Database Design](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/Database%20Design.pdf)|
-[🔗StudentPeak Code.Zip](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/(Code)%20StudentPeak%20G2%20Code.zip)|[🔗Corpus.Zip](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/Corpus.zip)|
+[🔗StudentPeak Repo](https://github.com/nikodemzareba/StudentPeak)|
 
 [//]: <> (#################################################################################.)
 

@@ -19,24 +19,6 @@ https://github.com/user-attachments/assets/8682401d-b86c-4ba5-ab73-73273cd0841b
 
 [Full Project Wireframe](https://xd.adobe.com/view/75ac363e-89dc-4662-a601-a609904c584f-20ff/)
 
-
-[//]: <> (#################################################################################.)
-
-##
-
-## Project Files
-
-| [🔗StudentPeak Poster](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/StudentPeak%20%20Poster.pdf) |[🔗StudnetPeak User Manual](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/User%20Manual.pdf) |[🔗StudentPeak Abstract](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/StudentPeak%20Abstract.pdf)|[🔗StudentPeak Technical Report](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/StudentPeak%20Technical%20Report.pdf)|
-|------------------------------|------------------------------|------------------------------|------------------------------|
-|[🔗StudentPeak Market Research](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/StudentPeak_Market_Research_Report.pdf)|[🔗StudentPeak User Stories](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/User%20Stories2.pdf) |[🔗StudentPeak User Stories 2](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/User%20Stories.pdf)|[🔗StudentPeak Use Cases](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/Use%20Case.docx.pdf)|[🔗StudentPeak Database Design](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/Database%20Design.pdf)|
-[🔗StudentPeak Code.Zip](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/(Code)%20StudentPeak%20G2%20Code.zip)|[🔗Corpus.Zip](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/Corpus.zip)|
-
-[//]: <> (#################################################################################.)
-##
-<p>
-Design using React / React Native, Javascript, Redux and Expo for cross-platform consistency and multi-platform compatibility on IOS & Android devices for later deployment, whilst utilizing  efficient databases like: Firebase / Firestore databases with incorporation of Node.js platform.  
-</p>
-
 [//]: <> (#################################################################################.)
 
 ##
@@ -72,17 +54,31 @@ Design using React / React Native, Javascript, Redux and Expo for cross-platform
 [<img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=jetbrains&logoColor=white" alt="Webstorm IDE" title="Webstorm IDE" height="25" />][tech_tools_anchor]
 &nbsp;
 
+[tech_tools_anchor]: #bonjour--
+
+[//]: <> (#################################################################################.)
+
+<p>
+Designed using React / React Native, Javascript, Redux and Expo for cross-platform consistency and multi-platform compatibility on IOS & Android devices for later deployment, whilst utilizing  efficient databases like: Firebase / Firestore databases with incorporation of Node.js platform.  
+</p>
+
+##
+[//]: <> (#################################################################################.)
+## Project Files
+
+| [🔗StudentPeak Poster](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/StudentPeak%20%20Poster.pdf) |[🔗StudnetPeak User Manual](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/User%20Manual.pdf) |[🔗StudentPeak Abstract](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/StudentPeak%20Abstract.pdf)|[🔗StudentPeak Technical Report](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/StudentPeak%20Technical%20Report.pdf)|
+|------------------------------|------------------------------|------------------------------|------------------------------|
+|[🔗StudentPeak Market Research](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/StudentPeak_Market_Research_Report.pdf)|[🔗StudentPeak User Stories](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/User%20Stories2.pdf) |[🔗StudentPeak User Stories 2](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/User%20Stories.pdf)|[🔗StudentPeak Use Cases](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/Use%20Case.docx.pdf)|[🔗StudentPeak Database Design](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/Database%20Design.pdf)|
+[🔗StudentPeak Code.Zip](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/(Code)%20StudentPeak%20G2%20Code.zip)|[🔗Corpus.Zip](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/Corpus.zip)|
+
 [//]: <> (#################################################################################.)
 
 
-[//]: <> (This is also a comment.)
 ## 🔍  Where to find me
 
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/10927329/valentin-briand)
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valentinbriand42)
 
-[//]: <> (This is also a comment.)
-[tech_tools_anchor]: #bonjour--
 
 

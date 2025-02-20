@@ -1,8 +1,8 @@
 <h1 align="center">  Student Peak Group Project </h1>
 
 [//]: <> (#################################################################################.)
-[![Watch the video](https://github.com/user-attachments/assets/33b4c042-dc5a-4e7b-9762-f76f406d0297)](https://youtu.be/uce1-xKXER0)
-### [Watch This Video on YouTube](https://youtu.be/uce1-xKXER0)
+![Watch the video](https://github.com/user-attachments/assets/91cba3f7-87cb-4477-9e1b-759313614efa)
+### [Watch Video Demo On Youtube](https://youtu.be/uce1-xKXER0)
 
 ##
 

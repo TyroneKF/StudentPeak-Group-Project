@@ -16,7 +16,7 @@ Whilst providing a personalized experience catered by a student’s preferences 
 
 [//]: <> (#################################################################################.)
 
-https://github.com/user-attachments/assets/8682401d-b86c-4ba5-ab73-73273cd0841b
+https://github.com/user-attachments/assets/2da7bc8e-9b4b-446a-9b26-f53a390beaaf
 
 [Full Project Wireframe](https://xd.adobe.com/view/75ac363e-89dc-4662-a601-a609904c584f-20ff/)
 

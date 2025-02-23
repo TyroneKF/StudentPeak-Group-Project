@@ -11,7 +11,7 @@
 <p> 
 StudentPeak is an innovative mobile app designed to foster connections amongst university students, facilitating social engagement and community integration. This dynamic platform enables students to discover peers with shared interests, stay informed and discover university-affiliated events & events in the area, and support newcomers in adapting to university life. 
   
-Whilst providing a personalized experience catered by a student’s preferences & interests in; accommodation, academic discipline, and extracurricular interests and societies. This customization powers a curated feed showcasing friend’s activities, trending topics & discussions on campus, an explore page promoting suggested content and an events page crafted from a user’s interests & society-driven events using; Google Events Results API via SerpApi to provide real-time updates.
+Whilst providing a personalized experience catered by a student’s preferences & interests in; accommodation, academic discipline, and extracurricular interests and societies. This customization powers a curated feed showcasing friend’s activities, trending topics & discussions on campus, an explore page promoting suggested content and an events page crafted from a user’s interests & society-driven events.
 </p>
 
 [//]: <> (#################################################################################.)
@@ -23,12 +23,14 @@ https://github.com/user-attachments/assets/2da7bc8e-9b4b-446a-9b26-f53a390beaaf
 [//]: <> (#################################################################################.)
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages & Frameworks & Dependencies 🔥</h2>
 <br>
 
 
 <p>
-Designed using React / React Native, Javascript, Redux and Expo for cross-platform consistency and multi-platform compatibility on IOS & Android devices for later deployment, whilst utilizing  efficient databases like: Firebase / Firestore databases with incorporation of Node.js platform.  
+Designed using React / React Native and Redux for cross-platform consistency, StudentPeak leverages Firestore and Firebase for efficient database management, while Expo streamlines development and deployment across iOS and Android. JavaScript serves as the core programming language, ensuring scalability and seamless performance and API integrations (Google Events) for event suggestions.
+  
+The app also integrated Google Events Results API via SerpApi which required the implementation of a Node.js server to host the connection to receive JSON data regarding social and society-driven events updates in real-time. 
 </p>
 
 <p align="center">

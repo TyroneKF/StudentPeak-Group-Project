@@ -31,6 +31,8 @@ https://github.com/user-attachments/assets/2da7bc8e-9b4b-446a-9b26-f53a390beaaf
 Designed using React / React Native and Redux for cross-platform consistency, StudentPeak leverages Firestore and Firebase for efficient database management, while Expo streamlines development and deployment across iOS and Android. JavaScript serves as the core programming language, ensuring scalability and seamless performance and API integrations (Google Events) for event suggestions.
   
 The app also integrated Google Events Results API via SerpApi which required the implementation of a Node.js server to host the connection to receive JSON data regarding social and society-driven events updates in real-time. 
+
+During the production of this application, we also incorporated agile methodologies (kanban) and implemented Git for version control. We also held regular daily and weekly meetings to track progress and potentially further decompose tasks/deliverables to meet deadlines.
 </p>
 
 <p align="center">

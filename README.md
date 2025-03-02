@@ -65,3 +65,18 @@ During the production of this application, we also incorporated agile methodolog
 |[🔗StudentPeak Market Research](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/StudentPeak_Market_Research_Report.pdf)|[🔗StudentPeak User Stories](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/User%20Stories2.pdf) |[🔗StudentPeak User Stories 2](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/User%20Stories.pdf)|[🔗StudentPeak Use Cases](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/Use%20Case.docx.pdf)|[🔗StudentPeak Database Design](https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/Database%20Design.pdf)|
 [🔗StudentPeak Repo](https://github.com/nikodemzareba/StudentPeak)| [🔗StudentPeak WireFrame](https://xd.adobe.com/view/75ac363e-89dc-4662-a601-a609904c584f-20ff/) |[🔗StudentPeak Demo Video](https://youtu.be/uce1-xKXER0)|
 
+<br> 
+
+
+<div align="center">
+<a href="https://github.com/nikodemzareba/StudentPeak">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikodemzareba&repo=StudentPeak&theme=buefy" />
+</a>
+</div>
+
+[//]: <> (################################################################################)
+<hr></hr>
+
+
+
+

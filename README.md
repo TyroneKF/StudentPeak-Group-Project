@@ -75,8 +75,9 @@ During the production of this application, we also incorporated agile methodolog
 </div>
 
 [//]: <> (################################################################################)
-<hr></hr>
 
-
+<a href="https://www.linkedin.com/in/tyrone-f-790004151/">
+  <img align="right" alt="LinkedIn" width="21px" src="images/linkedin-big-logo.svg" />
+</a>
 
 

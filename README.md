@@ -12,6 +12,8 @@
 StudentPeak is an innovative mobile app designed to foster connections amongst university students, facilitating social engagement and community integration. This dynamic platform enables students to discover peers with shared interests, stay informed and discover university-affiliated events & events in the area, and support newcomers in adapting to university life. 
   
 Whilst providing a personalized experience catered by a student’s preferences & interests in; accommodation, academic discipline, and extracurricular interests and societies. This customization powers a curated feed showcasing friend’s activities, trending topics & discussions on campus, an explore page promoting suggested content and an events page crafted from a user’s interests & society-driven events.
+
+💥 Disclaimer 💥, this project was created a few years ago and its likely the project dependecies are outdated due, to new models being released potentially creating legacy code and execution issues!
 </p>
 
 [//]: <> (#################################################################################.)
